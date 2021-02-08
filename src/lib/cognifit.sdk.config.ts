@@ -96,5 +96,4 @@ export class CognifitSdkConfig {
       ? 'https://prejs.cognifit.com/' + this.jsVersion + '/html5Loader.js'
       : 'https://js.cognifit.com/' + this.jsVersion + '/html5Loader.js';
   }
-
 }
