@@ -52,6 +52,6 @@
     "@angular/common": "^11.1.2",
     "@angular/core": "^11.1.2",
     "@angular/http": "^7.2.16",
-    "rxjs": "^6.6.3"
+    "rxjs": "^7.5.6"
   }
 }
